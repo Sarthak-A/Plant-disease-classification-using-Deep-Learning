@@ -37,12 +37,12 @@ Below is a comparison of the training and validation accuracy of the different m
 
 | Model name | Validation Accuracy | Precision | Model Weights
 | --- | --- | --- | --- |
-| VGG19 | 82.35% | 86.85 |  |
-| EfficientNet | 88.96% | 93.85 |  |
-| GoogLeNet | 92.49% | 94.31 |  |
-| ResNet50 | 91.84% | 94.84 |  |
-| DenseNet | 88.65% | 94.0 |  |
-| ViT | 88.93% | 90.08 |  |
+| VGG19 | 82.35% | 86.85 | [VGG19](https://drive.google.com/file/d/1mXB0mhL6VX6dsI5fSSEOtY39Jbl8opGV/view?usp=sharing) |
+| EfficientNet | 88.96% | 93.85 | [EffNet](https://drive.google.com/file/d/1flg9dQu530_xKpx0S1Bzi0c8vni4Rlq3/view?usp=sharing) |
+| GoogLeNet | 92.49% | 94.31 | [GoogLeNet](https://drive.google.com/file/d/1RKqQazAnOFZOTP-rhadOTe2urMWFfL8V/view?usp=sharing) |
+| ResNet50 | 91.84% | 94.84 | [ResNet50](https://drive.google.com/file/d/10FPDK899bM2cPWGlN5-8AM6QQCdu-Vta/view?usp=sharing) |
+| DenseNet | 88.65% | 94.0 | [DenseNet](https://drive.google.com/file/d/1WoHXIP_E6x5wKETgys2thiJDIi7CndQO/view?usp=sharing) |
+| ViT | 88.93% | 90.08 | [ViT](https://drive.google.com/file/d/1ngtJ1QoKBJSLHNM77eQAptX2PYMJ7GHf/view?usp=sharing) |
 
 ## Usage
 
